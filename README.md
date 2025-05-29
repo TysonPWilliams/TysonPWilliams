@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** based in Australia, currently studying a **Diploma of Web Development** at Coder Academy. I love turning ideas into real-world applications, and I'm all about building clean, functional, and user-friendly websites.
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, HTML5, CSS3, SQL
+- **Languages:** JavaScript, Python, HTML5, CSS3
 - **Frameworks & Libraries:** React.js, Node.js, Express, SQLAlchemy
 - **Databases:** MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Heroku, Netlify, VS Code, Linux (Raspberry Pi)
@@ -24,7 +24,7 @@ Here are a few things I’m working on:
 
 ## 📫 Let’s Connect
 - 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tyson-williams-13273760) *(replace this)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tysonpwilliams)
 - 💌 Email: tyson.williams95@gmail.com
 
 ---
