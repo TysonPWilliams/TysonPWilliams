@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tyson!
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** based in Australia, currently studying a **Diploma of Web Development** at Coder Academy. I love turning ideas into real-world applications, and I'm all about building clean, functional, and user-friendly websites. I also have a GitHub Organisation where you can view my work: [SatoshiFund Organisation](https://www.github.com/SatoshiFund)
+Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** based in Australia, currently studying a **Diploma of Web Development** at Coder Academy. I love turning ideas into real-world applications, and I'm all about building clean, functional, and user-friendly websites. I also have a GitHub Organisation where you can view my work: [SatoshiFund](https://www.github.com/SatoshiFund)
 
 ## 🔧 Tech Stack
 - **Languages:** JavaScript, Python, HTML5, CSS3
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** based
 
 ## 🚀 Projects
 Here are a few things I’m working on:
-- ⚙️ A peer-to-peer Bitcoin Lending Web App [SatoshiFund Organisation](https://www.github.com/SatoshiFund)
+- ⚙️ A peer-to-peer Bitcoin Lending Web App [SatoshiFund](https://www.github.com/SatoshiFund)
 - 🎮 A tool for Real Estate agents to gauge how ready customers are to sell/buy
 - 🌐 Portfolio and freelance websites for small businesses
 
