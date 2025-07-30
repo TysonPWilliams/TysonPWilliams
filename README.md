@@ -3,10 +3,26 @@
 Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** based in Australia, currently studying a **Diploma of Web Development** at Coder Academy. I love turning ideas into real-world applications, and I'm all about building clean, functional, and user-friendly web apps and websites. I also have a GitHub Organisation where you can view my work: [SatoshiFund](https://www.github.com/SatoshiFund)
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Node.js, Express, SQLAlchemy
-- **Databases:** MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, Heroku, Netlify, VS Code, Linux (Raspberry Pi)
+- **Languages:**
+  JavaScript <img style="height: 30px;" src="./img/JavaScript (1).svg"/>,
+  Python <img style="height: 30px;" src="./img/Python (1).svg"/>,
+  HTML5 <img style="height: 30px;" src="./img/HTML5.svg"/>,
+  CSS3 <img style="height: 30px;" src="./img/CSS3 (1).svg"/>
+  
+- **Frameworks & Libraries:**
+  React.js <img style="height: 30px;" src="./img/React (1).svg"/>,
+  Node.js <img style="height: 30px;" src="./img/Node.js.svg"/>,
+  Express <img style="height: 30px;" src="./img/Express.svg"/>,
+  SQLAlchemy <img style="height: 30px;" src="./img/SQLAlchemy.svg"/>
+- **Databases:**
+  MongoDB <img style="height: 30px;" src="./img/MongoDB (1).svg"/>,
+  PostgreSQL <img style="height: 30px;" src="./img/PostgresSQL.svg"/>
+- **Tools & Platforms:**
+  Git,
+  GitHub <img style="height: 30px;" src="./img/GitHub.svg"/>,
+  Heroku, Netlify,
+  VS Code <img style="height: 30px;" src="./img/Visual Studio Code (VS Code).svg"/>,
+  Linux <img style="height: 30px;" src="./img/Linux.svg"/>
 - **Currently Learning:** Advanced React, Web Security
 
 ## 🚀 Projects
